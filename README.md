@@ -1,7 +1,7 @@
 # Oi! Eu sou a Rebeca Gallet 👋
 
 🎓 Engenheira de Produção com atuação em Dados e Tecnologia  
-💼 Analista de Arquitetura de Dados Jr no Itaú  
+💼 Em busca de oportunidade como analista de dados  
 📊 Foco em modelagem de dados, indicadores estratégicos e governança  
 ☁️ Experiência com AWS (Athena, Glue, S3, SageMaker, QuickSight), ambientes lake e painéis de observabilidade  
 🚀 Entusiasta de soluções eficientes e automações que poupam tempo e custos
